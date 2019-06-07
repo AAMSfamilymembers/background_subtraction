@@ -2,9 +2,7 @@ import cv2
 import numpy
 
 video = cv2.VideoCapture(0)
-#ret,frame1 = video.read()
-#grayframe1 = cv2.cvtColor(frame1,cv2.COLOR_BGR2GRAY)
-#grayframe1 = cv2.GaussianBlur(grayframe1,(5,5),0)
+
 while(1):
 	ret,frame2 = video.read()
 	cv2.waitKey(10)
