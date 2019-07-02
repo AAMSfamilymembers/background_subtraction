@@ -9,6 +9,7 @@ Implement background subtraction using following different algorithms:
 3. Median Filter
 4. Approximate Median Filter
 5. Running Gaussian Average
+
 This is usually done before object tracking algortihms.
 
 # Team Members
