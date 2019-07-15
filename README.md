@@ -1,4 +1,4 @@
-# Background Subtraction using OpenCV-python
+# Background Subtraction Using OpenCV-python
 Reimplementation of research paper on Adaptive background mixture models for real-time tracking:
 
 http://www.ai.mit.edu/projects/vsam/Publications/stauffer_cvpr98_track.pdf
